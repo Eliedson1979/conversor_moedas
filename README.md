@@ -28,7 +28,7 @@ Para executar o projeto localmente, siga estas etapas:
 1. Clone o repositório:
 
     ```bash
-    clone
+    git clone git@github.com:Eliedson1979/conversor_moedas.git
 
 2. Navegue até a pasta do projeto:
 
